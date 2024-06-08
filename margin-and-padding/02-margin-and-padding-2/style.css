@@ -37,7 +37,7 @@ body {
 .button-container {
   background: #e3f4ff;
   padding: 8px;
-  margin: 0 auto;
+  text-align: center;
 }
 
 button {
