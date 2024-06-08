@@ -30,8 +30,8 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding: 8px;
-  margin: 16px 8px;
+  margin-bottom: 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
