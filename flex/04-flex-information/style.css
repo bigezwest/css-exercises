@@ -31,6 +31,10 @@ img {
   align-items: center;
 }
 
+.hdr-grp {
+  display: flex;
+  justify-content: space-around;
+}
 
 .grp {
   display: flex;
