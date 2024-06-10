@@ -39,9 +39,5 @@ img {
 }
 
 .grp {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0px 52px;
   width: 200px;
 }
