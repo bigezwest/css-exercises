@@ -7,9 +7,6 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
 }
 
 img {
@@ -31,7 +28,9 @@ input {
 }
 
 .header {
-  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .content {
