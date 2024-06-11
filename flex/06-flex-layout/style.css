@@ -46,11 +46,13 @@ input {
 .left-links {
   display: flex;
   flex-direction: row;
+  gap: 10px;
 }
 
 .right-links {
   display: flex;
   flex-direction: row;
+  gap: 10px;
 }
 
 li {
@@ -59,4 +61,5 @@ li {
 
 a {
   text-decoration: none;
+
 }
