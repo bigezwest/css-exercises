@@ -39,6 +39,9 @@ input {
   padding: 16px;
 }
 
+.footer {
+  color: #eee;
+}
 .content {
   display: flex;
   flex: 1;
@@ -65,7 +68,5 @@ li {
 }
 
 a {
-  color: #eee;
   text-decoration: none;
-
 }
