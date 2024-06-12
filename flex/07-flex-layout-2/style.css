@@ -69,7 +69,7 @@ a {
 .cards {
   display: flex;
   flex-wrap: wrap;
-  padding: 20px;
+  padding: 48px;
   gap: 20px
 
 }
