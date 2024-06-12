@@ -9,7 +9,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-
 }
 
 .header {
@@ -36,6 +35,7 @@ body {
   width: 600px;
   background: royalblue;
   box-sizing: border-box;
+  padding: 5px;
 }
 
 .card {
@@ -51,8 +51,13 @@ body {
   flex-direction: row;
 }
 
+li {
+  padding: 5px;
+}
+
 a {
   color: white;
+  text-decoration: none;
 }
 
 .cards {
