@@ -23,8 +23,12 @@ body {
 }
 
 .footer {
-  height: 72px;
-  background: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 32px;
+  padding: 12px;
+  background: rgb(203, 202, 202);
   color: darkmagenta;
 }
 
