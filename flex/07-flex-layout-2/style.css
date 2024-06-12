@@ -32,7 +32,8 @@ body {
 }
 
 .sidebar {
-  width: 600px;
+  flex-shrink: 0;
+  width: 300px;
   background: royalblue;
   box-sizing: border-box;
   padding: 5px;
