@@ -13,9 +13,13 @@ body {
 }
 
 .header {
-  height: 72px;
+  flex: 0;
   background: darkmagenta;
   color: white;
+  font-weight: bold;
+  height: 32px;
+  padding: 12px;
+  align-items: center;
 }
 
 .footer {
